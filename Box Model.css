@@ -1,0 +1,44 @@
+/*
+* Peyton Hays
+* February 1, 2019
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {margin: 0;
+	padding: 0;}
+
+
+
+/* Body attributes here */
+h1 {border-style: dotted; 
+	border-bottom-color: dodgerblue;
+padding: 10px;
+margin: 10px;
+height: auto;
+width: auto;}
+
+p  {border-style: dotted; 
+	border-bottom-color: dodgerblue;
+padding: 10px;
+margin: 10px;
+height: auto;
+width: auto;}
+
+
+main {border-style: dotted; 
+	border-bottom-color: dodgerblue;
+padding: 10px;
+margin: 10px;
+height: auto;
+width: auto;}
+
+
+body {border-style: dotted; 
+	border-bottom-color: dodgerblue;
+padding: 10px;
+margin: 10px;
+height: auto;
+width: auto;
+background-color: plum;}
